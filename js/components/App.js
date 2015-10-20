@@ -1,6 +1,5 @@
 'use strict'
 
-var director = require('director')
 var React = require('react')
 var _ = require('lodash')
 
